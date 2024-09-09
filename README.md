@@ -1,2 +1,3 @@
 This is my first code in the Git Hub
-This is second line of the code 
+This is second line of the code
+Third line is added 
